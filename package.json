@@ -1,0 +1,30 @@
+{
+    "name": "Coopsana",
+    "displayName": "Coopsana",
+    "description": "Tema Coopsana IPS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Coopsana",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Coopsana-color-theme.json"
+        }]
+    },
+    "icon": "icons/favicon.ico",
+    "author": {
+        "name": "John A. Quintero",
+        "email": "john.quintero@coopsana.com.co",
+        "url": "https://www.linkedin.com/in/johnalexanderquinteroberrio/"
+    },
+    "repository": {
+        "url": "https://github.com/coopsana/coopsana-vscode-theme",
+        "type": "git"
+    },
+    "publisher": "coopsanaDevs"
+}
